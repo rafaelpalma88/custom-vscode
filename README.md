@@ -1,1 +1,1 @@
-# custom-vscode
+# Minhas definições customizadas para o VS Code
